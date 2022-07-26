@@ -1,0 +1,19 @@
+{
+    "ownerNumber": ["6282229217681"],
+    "ownerName": "Wahab and Inory",
+    "instagram" : "-",
+    "botName": "Zero Bot ",
+    "footer": "Wahab and Inory",
+    "sessionName": "session",
+    "pathimg": "./media/Haruka.jpg",
+    "BotKey": "V12",
+    "auto_welcomeMsg": true,
+    "auto_leaveMsg": true,    
+    "autobio": true,
+    "gamewaktu": 90,
+    "limitCount": 25,
+    "gcount": {
+        "prem": 1000,
+        "user": 15
+    }
+}
